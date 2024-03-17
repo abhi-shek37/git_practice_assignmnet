@@ -10,5 +10,5 @@ function isPrime(n){
   return true;
 }
 
-var k = isPrime(7);
+var k = isPrime(3);
 console.log(k);
